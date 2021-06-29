@@ -1,2 +1,3 @@
 # Quiz-pyhton
-for begineer for learning process
+for begineer for learning purpose!
+
